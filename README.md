@@ -3,9 +3,9 @@
 
 ### About for me
 * Junior software developer :computer:
-* in constant learning :books:
-* passionate about technology :globe_with_meridians:
-* open to work :star:
+* In constant learning :books:
+* Passionate about technology :globe_with_meridians:
+* Open to Work :star:
 
 
 
