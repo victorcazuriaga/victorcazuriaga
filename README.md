@@ -2,7 +2,7 @@
 
 
 ### About for me
-* Junior software developer :computer:
+* Software developer :computer:
 * In constant learning :books:
 * Passionate about technology :globe_with_meridians:
 * Open to Work :star:
